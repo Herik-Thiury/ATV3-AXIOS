@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "id": "6da5",
+      "nome": "herik",
+      "cpf": "11111111",
+      "email": "herik@gmail",
+      "senha": "123"
+    }
+  ],
+  "contatos": [
+    {
+      "nome": "pedro ",
+      "email": "pedro@gmail",
+      "telefone": "154",
+      "id": "0033"
+    },
+    {
+      "id": "f388",
+      "nome": "josuel",
+      "email": "josuel@gmail",
+      "telefone": "55555"
+    },
+    {
+      "id": "03aa",
+      "nome": "herik",
+      "email": "aaaaaaaaa",
+      "telefone": "11111111"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
